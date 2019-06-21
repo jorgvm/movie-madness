@@ -1,6 +1,6 @@
 # Movie Madness
 
-Demo met React, routing, styled components, APIs and Firebase
+Demo with React, routing, styled components, API and Firebase
 
 - Demo: [movie-madness-tm.firebaseapp.com](https://movie-madness-tm.firebaseapp.com)
 - Git repository: [https://github.com/jorgvm/movie-madness](https://github.com/jorgvm/movie-madness)
