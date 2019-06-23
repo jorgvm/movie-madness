@@ -9,19 +9,32 @@ class About extends React.Component {
         <h1>About</h1>
 
         <Wysiwyg>
-          <p>Demo met React, routing, styled components, API's en Firebase</p>
-
-          <p>&ndash; Jorg</p>
+          <p>
+            I built this just to have some fun with React, routing, styled
+            components, API's and Firebase
+            <br />
+            &ndash; Jorg
+          </p>
 
           <p style={{ marginTop: "50px" }}>
-            Demo:{" "}
+            Demo on{" "}
             <a
               rel="noopener noreferrer"
               target="_blank"
               href="https://movie-madness-tm.firebaseapp.com"
             >
-              movie-madness-tm.firebaseapp.com
+              Firebase
             </a>
+            <br />
+            Check out the{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://github.com/jorgvm/movie-madness"
+            >
+              Git repository on Github
+            </a>
+            <br />
             <br />
           </p>
 
